@@ -1,11 +1,14 @@
 
+
+
 .headline{
     text-align: right;
     font-weight: 700;
 font-size: 55px;
 padding-right: 20px;
-padding-top: 50px;
-color: #962d2d;
+padding-top: 0px;
+color: #FFFFFF;
+
 }
 .description{
     text-align: right;
@@ -13,8 +16,19 @@ color: #962d2d;
 font-size: 16px;
 padding-top: 0px;
 padding-right: 20px;
-color: #8d3a3a;
+color: #FFFFFF;
 line-height: 20px;
 font-style: italic;
-
+}
+.container{
+    position: relative;
+}
+.text-design{
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
 }
