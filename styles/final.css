@@ -98,25 +98,25 @@ margin-bottom: 100px;
 
 }
 /* section 3 */
-.graident-style{
-    display: flex;
-}
-.always{
+.extra{
     text-align: center;
     font-weight: 700;
 font-size: 40px;
-
-
-  
-
-color: #d31212;
+margin-top: 150px;
+background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+padding: 0px 50px;
+border-radius: 8px;
+margin: 100px 200px;
 }
-.graa{
-    border-radius: 8px;
-    padding: 100px 200px;
-    
+.btt{
+    font-weight: 600;
+font-size: 20px;
+font-weight: 600;
+text-align: center;
+color: #005FAC;
+border-radius: 5px;
+background: #FFFFFF;
 }
-
     
     
 
