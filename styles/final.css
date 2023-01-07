@@ -138,9 +138,26 @@ color: #F8F8F8;
 }
 .sub-footer{
     text-align: right;
-    padding: opx 0px;
+     margin-bottom: 200px;
+    color: #FFFFFF;
+    padding: 200px 0px;
+  
     
 }
+.jaiyo-nah{
+    color:white;
+    background-color: #005FAC;
+    color: #FFFFF;
+
+}
+
+.ibe{
+    font-weight: 600;
+font-size: 25px;
+
+}
+
+
 
 
 
