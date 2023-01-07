@@ -61,9 +61,25 @@ margin: 0px 200px;
  }
 .unordered{
     text-align: center;
+    padding-bottom: 50px;
+    margin-bottom: 16px;
+    
 }
 .list{
     text-align: center;
+    padding-top: 16px;
+}
+    
+.belief{
+    color: #151414;
+    font-weight: 700;
+font-size: 40px;
+margin-bottom: 20px;
+margin-top: 300px;
+}
+.parag{
+    color:black
+    
 }
 
 
