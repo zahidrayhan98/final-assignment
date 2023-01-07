@@ -93,13 +93,30 @@ margin-bottom: 30px;
 .skills-container{
 display: flex;
 justify-content: space-evenly;
+margin-bottom: 100px;
   
 
 }
+/* section 3 */
+.graident-style{
+    display: flex;
+}
+.always{
+    text-align: center;
+    font-weight: 700;
+font-size: 40px;
 
 
+  
 
+color: #d31212;
+}
+.graa{
+    border-radius: 8px;
+    padding: 100px 200px;
     
+}
+
     
     
 
